@@ -1,1 +1,1 @@
-# DZ-3-3-Allure
+[![Build status](https://ci.appveyor.com/api/projects/status/8ds24dh5leislgd7?svg=true)](https://ci.appveyor.com/project/Kitsune785/dz-3-3-allure)
